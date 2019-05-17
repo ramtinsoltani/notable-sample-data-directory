@@ -20,7 +20,7 @@ I'm expecting attempt #1 to work the way it is, attempt #2 to work but using a d
 
 # Current Behavior
 
-Current behavior is the exact opposite of my expectations! Attempts #1 and #2 fail and result in the **Note not found** dialog, while the third attempt is working but linking to **Note B** in **Category B** (I created it before **Note A** in **Category A**.)
+Current behavior is the exact opposite of my expectations! Attempts #1 and #2 fail and result in the **Note not found** dialog, while the third attempt is working but linking to **Note B** in **Category B** (I created it before **Note B** in **Category A**.)
 
 # Possible Solution
 
